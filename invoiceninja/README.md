@@ -89,9 +89,9 @@ chmod +x recovery_invoiceninja_data_script.sh
 ```
 
 ### Донастройка приложения:
-![Пример](/screenshots/invoiceninja1.png)
-![Пример](/screenshots/invoiceninja2.png)
-![Пример](/screenshots/invoiceninja3.png)
-![Пример](/screenshots/invoiceninja4.png)
-![Пример](/screenshots/invoiceninja5.png)
-![Пример](/screenshots/invoiceninja6.png)
+![Пример](/invoiceninja/screenshots/invoiceninja1.png)
+![Пример](/invoiceninja/screenshots/invoiceninja2.png)
+![Пример](/invoiceninja/screenshots/invoiceninja3.png)
+![Пример](/invoiceninja/screenshots/invoiceninja4.png)
+![Пример](/invoiceninja/screenshots/invoiceninja5.png)
+![Пример](/invoiceninja/screenshots/invoiceninja6.png)
